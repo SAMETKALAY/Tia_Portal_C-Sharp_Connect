@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="S7.Net">
+      <HintPath>..\..\..\..\..\..\..\..\D\01_PROJELER\02_REXROTH\03_LT05\PC\2024_07_10 - Kopya\LT05\LT05\bin\Debug\S7.Net.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

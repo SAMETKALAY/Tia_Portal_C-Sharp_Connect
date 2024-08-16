@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Siemens_Plc_Connect_Scada/1.0.0": {
+        "dependencies": {
+          "S7.Net": "0.20.0.0"
+        },
+        "runtime": {
+          "Siemens_Plc_Connect_Scada.dll": {}
+        }
+      },
+      "S7.Net/0.20.0.0": {
+        "runtime": {
+          "S7.Net.dll": {
+            "assemblyVersion": "0.20.0.0",
+            "fileVersion": "0.20.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Siemens_Plc_Connect_Scada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "S7.Net/0.20.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
