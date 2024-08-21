@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Siemens_Plc_Connect_Scada
-build_property.ProjectDir = \\vmware-host\Shared Folders\C\Users\Samet\Documents\GitHub\SAMETKALAY\Siemens_Plc_Connect_Scada\Siemens_Plc_Connect_Scada\
+build_property.ProjectDir = \\vmware-host\Shared Folders\D\01_PROJELER\00_ÖRNEK\03_C#\Siemens_Plc_Connect_Scada\Siemens_Plc_Connect_Scada\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\vmware-host\\Shared Folders\\C\\Users\\Samet\\Documents\\GitHub\\SAMETKALAY\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada.csproj": {}
+    "\\\\vmware-host\\Shared Folders\\D\\01_PROJELER\\00_ÖRNEK\\03_C#\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada.csproj": {}
   },
   "projects": {
-    "\\\\vmware-host\\Shared Folders\\C\\Users\\Samet\\Documents\\GitHub\\SAMETKALAY\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada.csproj": {
+    "\\\\vmware-host\\Shared Folders\\D\\01_PROJELER\\00_ÖRNEK\\03_C#\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\vmware-host\\Shared Folders\\C\\Users\\Samet\\Documents\\GitHub\\SAMETKALAY\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada.csproj",
+        "projectUniqueName": "\\\\vmware-host\\Shared Folders\\D\\01_PROJELER\\00_ÖRNEK\\03_C#\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada.csproj",
         "projectName": "Siemens_Plc_Connect_Scada",
-        "projectPath": "\\\\vmware-host\\Shared Folders\\C\\Users\\Samet\\Documents\\GitHub\\SAMETKALAY\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada.csproj",
+        "projectPath": "\\\\vmware-host\\Shared Folders\\D\\01_PROJELER\\00_ÖRNEK\\03_C#\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada.csproj",
         "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-        "outputPath": "\\\\vmware-host\\Shared Folders\\C\\Users\\Samet\\Documents\\GitHub\\SAMETKALAY\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada\\obj\\",
+        "outputPath": "\\\\vmware-host\\Shared Folders\\D\\01_PROJELER\\00_ÖRNEK\\03_C#\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",

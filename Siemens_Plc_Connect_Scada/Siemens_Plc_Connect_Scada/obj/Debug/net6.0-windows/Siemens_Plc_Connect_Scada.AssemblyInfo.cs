@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Siemens_Plc_Connect_Scada")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bfc21664ca332992b1d0ff8cfbf490036e21c07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Siemens_Plc_Connect_Scada")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Siemens_Plc_Connect_Scada")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

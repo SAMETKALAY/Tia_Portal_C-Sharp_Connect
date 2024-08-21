@@ -1,18 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "\\\\vmware-host\\Shared Folders\\C\\Users\\Samet\\Documents\\GitHub\\SAMETKALAY\\Siemens_Plc_Connect_Scada\\",
+  "WorkspaceRootPath": "\\\\vmware-host\\Shared Folders\\D\\01_PROJELER\\00_\u00D6RNEK\\03_C#\\Siemens_Plc_Connect_Scada\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{937DAAC8-BC4C-4C29-BAA9-A14DF6CC2EB9}|Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada.csproj|\\\\vmware-host\\shared folders\\c\\users\\samet\\documents\\github\\sametkalay\\siemens_plc_connect_scada\\siemens_plc_connect_scada\\plc_connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{937DAAC8-BC4C-4C29-BAA9-A14DF6CC2EB9}|Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada.csproj|\\\\vmware-host\\shared folders\\d\\01_projeler\\00_\u00F6rnek\\03_c#\\siemens_plc_connect_scada\\siemens_plc_connect_scada\\plc_connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{937DAAC8-BC4C-4C29-BAA9-A14DF6CC2EB9}|Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada.csproj|\\\\vmware-host\\shared folders\\c\\users\\samet\\documents\\github\\sametkalay\\siemens_plc_connect_scada\\siemens_plc_connect_scada\\plc_connect.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{937DAAC8-BC4C-4C29-BAA9-A14DF6CC2EB9}|Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada.csproj|\\\\vmware-host\\shared folders\\c\\users\\samet\\documents\\github\\sametkalay\\siemens_plc_connect_scada\\siemens_plc_connect_scada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{937DAAC8-BC4C-4C29-BAA9-A14DF6CC2EB9}|Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada.csproj|\\\\vmware-host\\shared folders\\c\\users\\samet\\documents\\github\\sametkalay\\siemens_plc_connect_scada\\siemens_plc_connect_scada\\plc_connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{937DAAC8-BC4C-4C29-BAA9-A14DF6CC2EB9}|Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada.csproj|\\\\vmware-host\\shared folders\\d\\01_projeler\\00_\u00F6rnek\\03_c#\\siemens_plc_connect_scada\\siemens_plc_connect_scada\\plc_connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,58 +16,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "\\\\vmware-host\\Shared Folders\\C\\Users\\Samet\\Documents\\GitHub\\SAMETKALAY\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada\\Program.cs",
-              "RelativeDocumentMoniker": "Siemens_Plc_Connect_Scada\\Program.cs",
-              "ToolTip": "\\\\vmware-host\\Shared Folders\\C\\Users\\Samet\\Documents\\GitHub\\SAMETKALAY\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada\\Program.cs",
-              "RelativeToolTip": "Siemens_Plc_Connect_Scada\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T05:34:32.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Plc_Connect.cs [Design]",
-              "DocumentMoniker": "\\\\vmware-host\\Shared Folders\\C\\Users\\Samet\\Documents\\GitHub\\SAMETKALAY\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada\\Plc_Connect.cs",
+              "Title": "Plc_Connect.cs",
+              "DocumentMoniker": "\\\\vmware-host\\Shared Folders\\D\\01_PROJELER\\00_\u00D6RNEK\\03_C#\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada\\Plc_Connect.cs",
               "RelativeDocumentMoniker": "Siemens_Plc_Connect_Scada\\Plc_Connect.cs",
-              "ToolTip": "\\\\vmware-host\\Shared Folders\\C\\Users\\Samet\\Documents\\GitHub\\SAMETKALAY\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada\\Plc_Connect.cs [Design]",
-              "RelativeToolTip": "Siemens_Plc_Connect_Scada\\Plc_Connect.cs [Design]",
+              "ToolTip": "\\\\vmware-host\\Shared Folders\\D\\01_PROJELER\\00_\u00D6RNEK\\03_C#\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada\\Plc_Connect.cs",
+              "RelativeToolTip": "Siemens_Plc_Connect_Scada\\Plc_Connect.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T04:50:22.847Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-08-19T07:59:14.621Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Plc_Connect.Designer.cs",
-              "DocumentMoniker": "\\\\vmware-host\\Shared Folders\\C\\Users\\Samet\\Documents\\GitHub\\SAMETKALAY\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada\\Plc_Connect.Designer.cs",
-              "RelativeDocumentMoniker": "Siemens_Plc_Connect_Scada\\Plc_Connect.Designer.cs",
-              "ToolTip": "\\\\vmware-host\\Shared Folders\\C\\Users\\Samet\\Documents\\GitHub\\SAMETKALAY\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada\\Plc_Connect.Designer.cs",
-              "RelativeToolTip": "Siemens_Plc_Connect_Scada\\Plc_Connect.Designer.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAMwDwAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T04:50:04.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Plc_Connect.cs",
-              "DocumentMoniker": "\\\\vmware-host\\Shared Folders\\C\\Users\\Samet\\Documents\\GitHub\\SAMETKALAY\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada\\Plc_Connect.cs",
+              "Title": "Plc_Connect.cs [Design]",
+              "DocumentMoniker": "\\\\vmware-host\\Shared Folders\\D\\01_PROJELER\\00_\u00D6RNEK\\03_C#\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada\\Plc_Connect.cs",
               "RelativeDocumentMoniker": "Siemens_Plc_Connect_Scada\\Plc_Connect.cs",
-              "ToolTip": "\\\\vmware-host\\Shared Folders\\C\\Users\\Samet\\Documents\\GitHub\\SAMETKALAY\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada\\Plc_Connect.cs",
-              "RelativeToolTip": "Siemens_Plc_Connect_Scada\\Plc_Connect.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "ToolTip": "\\\\vmware-host\\Shared Folders\\D\\01_PROJELER\\00_\u00D6RNEK\\03_C#\\Siemens_Plc_Connect_Scada\\Siemens_Plc_Connect_Scada\\Plc_Connect.cs [Design]",
+              "RelativeToolTip": "Siemens_Plc_Connect_Scada\\Plc_Connect.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T12:44:39.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T07:58:50.065Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
